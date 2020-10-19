@@ -1,6 +1,8 @@
 # Desafio
 Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
 
+**Veja online clicando [aqui](https://pjulioss.github.io/selfcare/)**
+
 
 ## Requisitos:
 - Sua página deve se parecer o mais próximo possível do design<br>
